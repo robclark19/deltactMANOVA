@@ -1,0 +1,121 @@
+Sample Name,Detector Name,Reporter,Task,Ct
+0hr Control plants,EF1a ARB,SYBR,Unknown,16.885914
+0hr Control plants,EF1a ARB,SYBR,Unknown,16.916761
+0hr Control plants,EF1a ARB,SYBR,Unknown,17.344173
+0hr Control plants,EF1a ARB,SYBR,Unknown,17.509153
+0hr Control plants,EF1a ARB,SYBR,Unknown,17.173752
+0hr Control plants,EF1a ARB,SYBR,Unknown,16.943707
+0hr PR exposed plants,EF1a ARB,SYBR,Unknown,16.036608
+0hr PR exposed plants,EF1a ARB,SYBR,Unknown,16.258158
+0hr PR exposed plants,EF1a ARB,SYBR,Unknown,16.753748
+0hr PR exposed plants,EF1a ARB,SYBR,Unknown,16.814756
+0hr PR exposed plants,EF1a ARB,SYBR,Unknown,17.23702
+0hr PR exposed plants,EF1a ARB,SYBR,Unknown,17.359533
+24hr PR feeding Control plant,EF1a ARB,SYBR,Unknown,17.514885
+24hr PR feeding Control plant,EF1a ARB,SYBR,Unknown,17.656418
+24hr PR feeding Control plant,EF1a ARB,SYBR,Unknown,18.597063
+24hr PR feeding Control plant,EF1a ARB,SYBR,Unknown,18.446688
+24hr PR feeding Control plant,EF1a ARB,SYBR,Unknown,17.691452
+24hr PR feeding Control plant,EF1a ARB,SYBR,Unknown,17.639593
+24hr PR feeding PR exposed plant,EF1a ARB,SYBR,Unknown,17.971949
+24hr PR feeding PR exposed plant,EF1a ARB,SYBR,Unknown,18.13096
+24hr PR feeding PR exposed plant,EF1a ARB,SYBR,Unknown,17.010645
+24hr PR feeding PR exposed plant,EF1a ARB,SYBR,Unknown,17.472307
+24hr PR feeding PR exposed plant,EF1a ARB,SYBR,Unknown,17.66651
+24hr PR feeding PR exposed plant,EF1a ARB,SYBR,Unknown,16.524319
+0hr Control plants,NAT1 ARB,SYBR,Unknown,17.405115
+0hr Control plants,NAT1 ARB,SYBR,Unknown,17.521141
+0hr Control plants,NAT1 ARB,SYBR,Unknown,21.06728
+0hr Control plants,NAT1 ARB,SYBR,Unknown,20.709927
+0hr Control plants,NAT1 ARB,SYBR,Unknown,17.341593
+0hr Control plants,NAT1 ARB,SYBR,Unknown,17.395298
+0hr PR exposed plants,NAT1 ARB,SYBR,Unknown,18.1377
+0hr PR exposed plants,NAT1 ARB,SYBR,Unknown,18.210268
+0hr PR exposed plants,NAT1 ARB,SYBR,Unknown,19.00484
+0hr PR exposed plants,NAT1 ARB,SYBR,Unknown,18.61784
+0hr PR exposed plants,NAT1 ARB,SYBR,Unknown,17.656805
+0hr PR exposed plants,NAT1 ARB,SYBR,Unknown,17.846916
+24hr PR feeding Control plant,NAT1 ARB,SYBR,Unknown,13.307781
+24hr PR feeding Control plant,NAT1 ARB,SYBR,Unknown,13.668617
+24hr PR feeding Control plant,NAT1 ARB,SYBR,Unknown,16.093746
+24hr PR feeding Control plant,NAT1 ARB,SYBR,Unknown,16.07353
+24hr PR feeding Control plant,NAT1 ARB,SYBR,Unknown,14.37338
+24hr PR feeding Control plant,NAT1 ARB,SYBR,Unknown,14.85968
+24hr PR feeding PR exposed plant,NAT1 ARB,SYBR,Unknown,16.643696
+24hr PR feeding PR exposed plant,NAT1 ARB,SYBR,Unknown,16.18625
+24hr PR feeding PR exposed plant,NAT1 ARB,SYBR,Unknown,13.659687
+24hr PR feeding PR exposed plant,NAT1 ARB,SYBR,Unknown,14.7344885
+24hr PR feeding PR exposed plant,NAT1 ARB,SYBR,Unknown,12.744063
+24hr PR feeding PR exposed plant,NAT1 ARB,SYBR,Unknown,13.00424
+0hr Control plants,VSP2 ARB,SYBR,Unknown,16.760866
+0hr Control plants,VSP2 ARB,SYBR,Unknown,16.667707
+0hr Control plants,VSP2 ARB,SYBR,Unknown,18.146503
+0hr Control plants,VSP2 ARB,SYBR,Unknown,17.99491
+0hr Control plants,VSP2 ARB,SYBR,Unknown,16.992256
+0hr Control plants,VSP2 ARB,SYBR,Unknown,16.857336
+0hr PR exposed plants,VSP2 ARB,SYBR,Unknown,Undetermined
+0hr PR exposed plants,VSP2 ARB,SYBR,Unknown,17.250122
+0hr PR exposed plants,VSP2 ARB,SYBR,Unknown,17.342442
+0hr PR exposed plants,VSP2 ARB,SYBR,Unknown,17.555454
+0hr PR exposed plants,VSP2 ARB,SYBR,Unknown,16.811447
+0hr PR exposed plants,VSP2 ARB,SYBR,Unknown,16.754633
+24hr PR feeding Control plant,VSP2 ARB,SYBR,Unknown,Undetermined
+24hr PR feeding Control plant,VSP2 ARB,SYBR,Unknown,12.615459
+24hr PR feeding Control plant,VSP2 ARB,SYBR,Unknown,Undetermined
+24hr PR feeding Control plant,VSP2 ARB,SYBR,Unknown,35.24083
+24hr PR feeding Control plant,VSP2 ARB,SYBR,Unknown,31.170424
+24hr PR feeding Control plant,VSP2 ARB,SYBR,Unknown,13.210221
+24hr PR feeding PR exposed plant,VSP2 ARB,SYBR,Unknown,15.52218
+24hr PR feeding PR exposed plant,VSP2 ARB,SYBR,Unknown,15.280224
+24hr PR feeding PR exposed plant,VSP2 ARB,SYBR,Unknown,Undetermined
+24hr PR feeding PR exposed plant,VSP2 ARB,SYBR,Unknown,11.736854
+24hr PR feeding PR exposed plant,VSP2 ARB,SYBR,Unknown,9.77705
+24hr PR feeding PR exposed plant,VSP2 ARB,SYBR,Unknown,Undetermined
+0hr Control plants,AOS ARB,SYBR,Unknown,15.620737
+0hr Control plants,AOS ARB,SYBR,Unknown,15.484777
+0hr Control plants,AOS ARB,SYBR,Unknown,16.636778
+0hr Control plants,AOS ARB,SYBR,Unknown,16.479305
+0hr Control plants,AOS ARB,SYBR,Unknown,14.546855
+0hr Control plants,AOS ARB,SYBR,Unknown,14.545347
+0hr PR exposed plants,AOS ARB,SYBR,Unknown,37.029316
+0hr PR exposed plants,AOS ARB,SYBR,Unknown,14.31467
+0hr PR exposed plants,AOS ARB,SYBR,Unknown,14.489226
+0hr PR exposed plants,AOS ARB,SYBR,Unknown,14.769758
+0hr PR exposed plants,AOS ARB,SYBR,Unknown,15.415688
+0hr PR exposed plants,AOS ARB,SYBR,Unknown,15.404771
+24hr PR feeding Control plant,AOS ARB,SYBR,Unknown,14.202759
+24hr PR feeding Control plant,AOS ARB,SYBR,Unknown,14.221425
+24hr PR feeding Control plant,AOS ARB,SYBR,Unknown,15.373785
+24hr PR feeding Control plant,AOS ARB,SYBR,Unknown,15.438068
+24hr PR feeding Control plant,AOS ARB,SYBR,Unknown,15.837166
+24hr PR feeding Control plant,AOS ARB,SYBR,Unknown,14.174823
+24hr PR feeding PR exposed plant,AOS ARB,SYBR,Unknown,14.753015
+24hr PR feeding PR exposed plant,AOS ARB,SYBR,Unknown,14.669219
+24hr PR feeding PR exposed plant,AOS ARB,SYBR,Unknown,10.906243
+24hr PR feeding PR exposed plant,AOS ARB,SYBR,Unknown,30.068033
+24hr PR feeding PR exposed plant,AOS ARB,SYBR,Unknown,13.114113
+24hr PR feeding PR exposed plant,AOS ARB,SYBR,Unknown,13.13125
+0hr Control plants,LOX2 ARB,SYBR,Unknown,17.024952
+0hr Control plants,LOX2 ARB,SYBR,Unknown,16.466421
+0hr Control plants,LOX2 ARB,SYBR,Unknown,17.185192
+0hr Control plants,LOX2 ARB,SYBR,Unknown,17.012753
+0hr Control plants,LOX2 ARB,SYBR,Unknown,15.920364
+0hr Control plants,LOX2 ARB,SYBR,Unknown,16.4153
+0hr PR exposed plants,LOX2 ARB,SYBR,Unknown,16.214258
+0hr PR exposed plants,LOX2 ARB,SYBR,Unknown,31.749994
+0hr PR exposed plants,LOX2 ARB,SYBR,Unknown,16.210808
+0hr PR exposed plants,LOX2 ARB,SYBR,Unknown,16.300058
+0hr PR exposed plants,LOX2 ARB,SYBR,Unknown,16.580233
+0hr PR exposed plants,LOX2 ARB,SYBR,Unknown,16.39438
+24hr PR feeding Control plant,LOX2 ARB,SYBR,Unknown,14.970406
+24hr PR feeding Control plant,LOX2 ARB,SYBR,Unknown,14.359363
+24hr PR feeding Control plant,LOX2 ARB,SYBR,Unknown,15.498428
+24hr PR feeding Control plant,LOX2 ARB,SYBR,Unknown,14.942161
+24hr PR feeding Control plant,LOX2 ARB,SYBR,Unknown,15.893074
+24hr PR feeding Control plant,LOX2 ARB,SYBR,Unknown,15.748645
+24hr PR feeding PR exposed plant,LOX2 ARB,SYBR,Unknown,15.3577585
+24hr PR feeding PR exposed plant,LOX2 ARB,SYBR,Unknown,15.519699
+24hr PR feeding PR exposed plant,LOX2 ARB,SYBR,Unknown,14.346993
+24hr PR feeding PR exposed plant,LOX2 ARB,SYBR,Unknown,13.92357
+24hr PR feeding PR exposed plant,LOX2 ARB,SYBR,Unknown,13.033027
+24hr PR feeding PR exposed plant,LOX2 ARB,SYBR,Unknown,12.775193
